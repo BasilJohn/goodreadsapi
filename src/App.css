@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.SearchBar-input{
+  border-radius: 5px;
+  height: 35px;
+  width: 50%;
+  border: 1px solid lightgray; 
+}
+.Item-header {
+  font-weight: bold;
+
+  padding: 10px
+ }
